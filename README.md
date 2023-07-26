@@ -1,29 +1,36 @@
-<img src="https://github.com/Develeps/Develeps/blob/main/images/header.png" alt="">
-<h1>Hello Word</h1>
-<h2>Заголовок 2</h2>
-<h3>Заголовок 3</h3>
-sdfsdfsdfsdfsdfsd
+<h1 align='center'>
+ Welcome to Develeps
+</h1>
 
-### Hi there 👋
+Привет меня зовут Sugu Sei, добро пожаловать на мой GitHub-профиль, я разоработчик, а так же видео-блогер расказываюший о своем становлением программисто в мире IT.
 
-</br>
-<h1>Hello Word</h1>
-<h2>Заголовок 2</h2>
-<h3>Заголовок 3</h3>
-sdfsdfsdfsdfsdfsd
+### Инетересы: 
+* Радиотехника
+* Программирование
+* Рисование
+
+### Образование: 
+* Техник-Программист (Колледж)
+* Радиофизик (Универ-бакалавр )
+
+## Блог
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UC93WrQ202QH63w3jW8IX2lQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
+## Language
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-<!--
-**Develeps/Develeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Here are some ideas to get you started:
+## Tools and IDE
+![VS Code](https://img.shields.io/badge/VS%20Code-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
